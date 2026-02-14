@@ -197,7 +197,7 @@ local Player = Players.LocalPlayer
 
 -- === PROTECTED ID SYSTEM ===
 local AllowedIDs = {
-    10505016592,9921990104,0,0,0
+    10505016592,9221990104,0,0,0
 }
 
 local function isAllowed()
